@@ -1,0 +1,81 @@
+*{
+  font-family: 'Fredoka One', cursive;
+}
+
+
+body {
+  text-align: center;
+  background-color: #a7c957;
+  color: #386641;
+}
+
+
+h1 {
+  font-size: 50px;
+}
+
+#credits {
+  font-style: italic;
+  bottom: 0;
+}
+
+.round {
+  margin: 0 auto;
+  border-radius: 30px;
+  border: solid 10px;
+  width: 525px;
+  color: #386641;
+}
+
+.inp {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  border: 0px solid;
+  margin-right: 15px;
+  border-radius: 5px;
+  color: white;
+  background-color: #bc4749;
+}
+
+.inp:hover{
+  background-color: white;
+  color: #bc4749;
+}
+
+.btn {
+  border: 0px solid;
+  height: 34px;
+  font-size: 20px;
+  color: white;
+  background-color: #bc4749;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+.btn:hover{
+  background-color: white;
+  color: #bc4749;
+}
+
+.colPic {
+  width: 557px;
+  height: 34px;
+  font-size: 20px;
+  border: 0px solid;
+  background-color: #bc4749;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+.colPic:hover {
+  background-color: white;
+}
+
+#save {
+  margin-right: 0px;
+}
+
+#options {
+  display: block;
+  margin-top: 15px;
+}
